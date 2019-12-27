@@ -1,0 +1,3 @@
+[submodule "projeto-livro-scifi"]
+	path = projeto-livro-scifi
+	url = https://github.com/rveneroso/projeto-livro-scifi.git
